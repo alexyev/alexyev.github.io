@@ -1,6 +1,6 @@
 # Alexander Yevchenko
 
-Hello and welcome to my site! 
+Hello, welcome! 
 Here you'll find all of the exciting stuff that I do, whether that be projects or experiences or book recommendations! Feel free to explore.
 
 Keep up with me here: [LinkedIn](https://www.linkedin.com/in/alexander-yevchenko-1334291b3/), [GitHub](https://github.com/alexyev), [Youtube](https://www.youtube.com/channel/UCRD_fhqKNaTI8TGliToviGA), [Medium](https://medium.com/@alexanderyevchenko)
